@@ -3,7 +3,7 @@ adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
 codebase=http://play.exorth.net/
 cachedir=oldschool
 storebase=0
-initial_jar=gamepack_8363289.jar
+initial_jar=https://github.com/runetech/osrs-gamepacks/raw/refs/heads/master/gamepacks/osrs-215.jar
 initial_class=client.class
 termsurl=http://www.jagex.com/g=oldscape/terms/terms.ws
 privacyurl=http://www.jagex.com/g=oldscape/privacy/privacy.ws
